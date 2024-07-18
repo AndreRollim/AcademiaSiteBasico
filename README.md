@@ -30,7 +30,7 @@ Desenvolvido com as seguintes tecnologias:
 
 Site criado para promover academias
 
-- [Acesse o projeto finalizado, online](https://andrerollim.github.io/Site-de-apresentacao-pessoal/)
+- [Acesse o projeto finalizado, online](https://)
 
 
 ## 🔖 Layout
